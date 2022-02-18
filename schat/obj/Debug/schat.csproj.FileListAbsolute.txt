@@ -1,0 +1,12 @@
+D:\Faculta\An3\MVP\schat\schat\bin\Debug\schat.exe.config
+D:\Faculta\An3\MVP\schat\schat\bin\Debug\schat.exe
+D:\Faculta\An3\MVP\schat\schat\bin\Debug\schat.pdb
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.csproj.AssemblyReference.cache
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.Form1.resources
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.Properties.Resources.resources
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.csproj.GenerateResource.cache
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.csproj.CoreCompileInputs.cache
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.exe
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.pdb
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.Form2.resources
+D:\Faculta\An3\MVP\schat\schat\obj\Debug\schat.Register.resources
